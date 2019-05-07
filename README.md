@@ -21,6 +21,3 @@
 
 ## Built With
 * [Three.js](https://threejs.org/) - WebGL
-
-## Acknowledgments
-* Learn Three.js By Jos Dirksen
